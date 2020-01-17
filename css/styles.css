@@ -10,9 +10,8 @@ footer {
   text-align: right;
 }
 
-.radio {
-  text-align: center;
-
+.age {
+  margin-left: 400px;
 }
 
 #test {
@@ -21,5 +20,6 @@ footer {
 
 .question {
   display: none;
+  margin-left: 400px;
 }
 
